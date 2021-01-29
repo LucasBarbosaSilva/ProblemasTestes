@@ -4,7 +4,7 @@ import static org.junit.Assert.assertEquals;
 public class IdadeTeste {
   
   @Test
-  public void casoDeTeste1() {
+  public void casoDeTeste1() { 
     int M = 52;
     int A = 14;
     int B = 18;
